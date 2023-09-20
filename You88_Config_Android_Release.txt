@@ -1,6 +1,6 @@
 {
     "g": "KK-game1",
-    "mf": "https://tai.daosieungon.xyz/main/",
+    "mf": "https://tai.cbys.xyz/main/",
     "dv": {
         "i": true,
         "a": false 
