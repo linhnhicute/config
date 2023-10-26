@@ -1,0 +1,9 @@
+{
+          "key": "Go88",
+          "gamename": "b86",
+          "manifestUrl": "https://tai.b52j.vin/main2/",
+          "mess": {
+                    "msg": "Lượng truy cập quá đông, Bảo trì hệ thống đến 04/04/2022 nâng cấp máy chủ! ",
+                    "isShow": false
+          }
+}
