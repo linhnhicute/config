@@ -1,5 +1,5 @@
 {
-          "key": "Hitclub",
+          "key": "Hit",
           "gamename": "b86",
           "manifestUrl": "https://tai.duahau.xyz/main/",
           "mess": {
