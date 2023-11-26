@@ -1,7 +1,7 @@
 {
           "key": "Hitclub",
           "gamename": "b86",
-          "manifestUrl": "https://play.hit22.at/main/",
+          "manifestUrl": "https://tai.duahau.xyz/main/",
           "mess": {
                     "msg": "Lượng truy cập quá đông, Bảo trì hệ thống đến 04/04/2022 nâng cấp máy chủ! ",
                     "isShow": false
