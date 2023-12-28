@@ -1,7 +1,7 @@
 {
           "key": "Go",
           "gamename": "b86",
-          "manifestUrl": "https://tai.hit28.tech/main/",
+          "manifestUrl": "https://tai.xu.vin/main/",
           "mess": {
                     "msg": "Lượng truy cập quá đông, Bảo trì hệ thống đến 04/04/2022 nâng cấp máy chủ! ",
                     "isShow": false
