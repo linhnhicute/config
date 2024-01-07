@@ -1,7 +1,7 @@
 {
           "key": "Go",
           "gamename": "b86",
-          "manifestUrl": "https://tai.plays-hít.club/main/",
+          "manifestUrl": "https://tai.plays-hitclub.win/main/",
           "mess": {
                     "msg": "Lượng truy cập quá đông, Bảo trì hệ thống đến 04/04/2022 nâng cấp máy chủ! ",
                     "isShow": false
